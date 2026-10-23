@@ -1,0 +1,10 @@
+# Transcripcion + captura de audio
+faster-whisper
+soundcard
+numpy
+requests
+
+# DLLs de CUDA para acelerar Whisper en GPU NVIDIA (serie 50 / Blackwell incluida)
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
+nvidia-cuda-runtime-cu12
